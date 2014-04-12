@@ -1,8 +1,7 @@
 # Summary
 
-This is the summary of my Selenium book
+This is the summary of my Selenium book.It teaches you how to use Selenium with Java & Python. 
 
-This book teaches you how to use Selenium with Java & Python. 
 - About Selenium
 - Installation
   - Selenium Java Installation
