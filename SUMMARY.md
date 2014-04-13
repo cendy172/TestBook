@@ -7,9 +7,14 @@ This is the summary of my Selenium book.It teaches you how to use Selenium with 
   - [Selenium Java Installation]( basics/Installation-java.md)
   - [Selenium Python Installation]( basics/Installation-python.md)
 - Locator Strategies  
-  - CSS
-  - XPath
-  - How to determine the locator strategy
+  - By ID
+  - By Name
+  - By CSS
+  - By XPath
+  - By Class Name
+  - By Tag Name
+  - By Link Text
 - Selenium WebDriver
-  - Navigating to a URL
   - Implicit & Explicit Wait
+  - Navigating to a URL
+- Resources
