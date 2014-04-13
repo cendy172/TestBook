@@ -4,8 +4,8 @@ This is the summary of my Selenium book.It teaches you how to use Selenium with 
 
 - [About Selenium](basics/About.md)
 - [Installation]( basics/Installation.md)
-  - [Selenium Java Installation]( basics/Installation.md#java)
-  - [Selenium Python Installation]( basics/Installation.md#python)
+  - [Selenium Java Installation]( basics/Installation-java.md)
+  - [Selenium Python Installation]( basics/Installation-python.md)
 - Locator Strategies  
   - CSS
   - XPath
