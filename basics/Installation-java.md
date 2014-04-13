@@ -12,7 +12,4 @@
 ```    
 - Visit [SeleniumHQ-Download](http://www.seleniumhq.org/download/) & down the latest Selenium standalone jar
 
-##Python
-```python
- pip install -U selenium
-```
+
