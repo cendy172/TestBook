@@ -24,11 +24,16 @@ public class SeleniumTrialRun {
 
 ##Python
 ```python
-webdriver_obj=webdriver.Firefox()
-search_box_name="q";
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 
-webdriver_obj.get("http://www.google.com")
-searchBoxElem=webdriver_obj.find_element_by_name(search_box_name)
-searchBoxElem.send_keys("Hello")
-webdriver_obj.close()
+if __name__=='__main__':
+
+	webdriver_obj=webdriver.Firefox()
+	search_box_name="q";
+
+	webdriver_obj.get("http://www.google.com")
+	searchBoxElem=webdriver_obj.find_element_by_name(search_box_name)
+	searchBoxElem.send_keys("Hello")
+	webdriver_obj.close()
 ```
