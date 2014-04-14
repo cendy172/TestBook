@@ -16,6 +16,7 @@ public class Trial {
         driver.get("http://www.google.com");
         WebElement searchBoxElem = driver.findElement(By.xpath(search_box_locator));
         searchBoxElem.sendKeys("Hello");
+        driver.quit();
     }
 }
 ```
