@@ -13,4 +13,4 @@ This is the summary of my Selenium book.It teaches you how to use Selenium with 
   - [By XPath](basics/By_XPath.md)
 - Selenium WebDriver
   - [Implicit & Explicit Wait](basics/Waits.md)
-- Resources
+- [Resources](Resources.md)
