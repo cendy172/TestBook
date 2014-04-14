@@ -1,0 +1,38 @@
+#Locating elements by XPath
+
+##Java
+```java
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class Trial {
+
+    public static void main(String[] args) {
+        WebDriver driver = new FirefoxDriver();
+        String search_box_locator = ".//*[@id='gbqfq']";
+
+        driver.get("http://www.google.com");
+        WebElement searchBoxElem = driver.findElement(By.xpath(search_box_locator));
+        searchBoxElem.sendKeys("Hello");
+    }
+}
+```
+
+##Python
+```python
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+
+if __name__=='__main__':
+
+	webdriver_obj=webdriver.Firefox()
+	search_box_locator=".//*[@id='gbqfq']";
+
+	webdriver_obj.get("http://www.google.com")
+	searchBoxElem=webdriver_obj.find_element_by_xpath(search_box_locator)
+	searchBoxElem.send_keys("Hello")
+	webdriver_obj.close()
+```	
+
