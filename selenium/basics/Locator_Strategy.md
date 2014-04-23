@@ -12,3 +12,7 @@ It would make much sense, if you use a locator and you would have change it very
 
 - Using Firebug & Firepath plugins of Firefox
 - Console & Inspect functionality of Firefox & Chrome
+
+## Resources
+
+- [CSS Selectors](http://saucelabs.com/resources/selenium/css-selectors)
