@@ -3,7 +3,7 @@
 This is the summary of my Selenium book.It teaches you how to use Selenium with Java & Python. 
 
 - [About Selenium](selenium/basics/About.md)
-- [Installation](selenium/basics/Installation.md)
+- [Selenium Installation](selenium/basics/Installation.md)
    - [Java Installation](selenium/basics/Installation-java.md)
    - [Python Installation](selenium/basics/Installation-python.md)
 - [Locator Strategies](selenium/basics/Locator_Strategy.md)  
@@ -14,3 +14,5 @@ This is the summary of my Selenium book.It teaches you how to use Selenium with 
 - [Selenium WebDriver](selenium/basics/Webdriver.md)
    - [Implicit & Explicit Wait](selenium/basics/Waits.md)
 - [Selenium Resources](selenium/Resources.md)
+- [About Protractor](protractor/protractor-intro.md)
+- [Protractor Installation](protractor/protractor-install.md)
