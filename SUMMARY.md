@@ -15,4 +15,4 @@ This is the summary of my Selenium book.It teaches you how to use Selenium with 
    - [Implicit & Explicit Wait](selenium/basics/Waits.md)
 - [Selenium Resources](selenium/Resources.md)
 - [About Protractor](protractor/protractor-intro.md)
-- [Protractor Installation](protractor/protractor-install.md)
+- [Implementing Page Object with Protractor](protractor/using-page-object-with-protractor.md)
