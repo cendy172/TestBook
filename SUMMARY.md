@@ -13,6 +13,7 @@ This is the summary of my Selenium book.It teaches you how to use Selenium with 
    - [By XPath](selenium/basics/By_XPath.md)
 - [Selenium WebDriver](selenium/basics/Webdriver.md)
    - [Implicit & Explicit Wait](selenium/basics/Waits.md)
+   - [Code Snippets](selenium/basics/Sel-code.md)
 - [Selenium Resources](selenium/Resources.md)
 - [About Protractor](protractor/protractor-intro.md)
 - [Implementing Page Object with Protractor](protractor/using-page-object-with-protractor.md)
